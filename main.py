@@ -91,7 +91,7 @@ def run_math_mastermind():
 
 
 
-# ✅ placeholder: once you paste Part 2 below, safe ai image generation will work
+# ✅ placeholder: once you paaste Part 2 below, safe ai image generation will work
 def run_safe_ai_image_generator():
     st.info("Paste Part 2 code to enable Safe AI Image Generator.")
 
